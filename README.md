@@ -1,4 +1,4 @@
-## 초보 Develop 연습생 👋 
+## IT Develop 연습생 👋 
 (2022.03.02 ~  / KOPO)
 
 ### Skilled with : 
