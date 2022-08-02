@@ -10,4 +10,4 @@
 <img src="https://img.shields.io/badge/vscode-007ACC?style=for-the-badge&logo=Visual Studio Code&logoColor=white">
 <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white">
 <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white">
-<img src="https://img.shields.io/badge/JavaScript-##F7DF1E?style=for-the-badge&logo=javascript&logoColor=white">
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white">
