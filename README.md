@@ -1,4 +1,4 @@
-## IT Develop 연습생 👋 
+## IT Developer Junior 👋 
 (2022.03.02 ~  / KOPO)
 
 ### Skilled with : 
