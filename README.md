@@ -1,5 +1,6 @@
 ## IT Developer Junior 👋 
-(2022.03.02 ~  / KOPO)
+(2022.03.02 ~ 2022.10.07 / KOPO)
+(2022.10.14 ~ / Onpia)
 
 ### Skilled with : 
 <img src="https://img.shields.io/badge/linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"> <img src="https://img.shields.io/badge/apache tomcat-F8DC75?style=for-the-badge&logo=apachetomcat&logoColor=black"> <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
