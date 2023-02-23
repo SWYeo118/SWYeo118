@@ -1,5 +1,5 @@
 ## IT Developer Junior 👋 
-(2022.03.02 ~ 2022.10.07 / KOPO)
+(2022.03.02 ~ 2022.10.07 / KOPO) <br>
 (2022.10.14 ~ / Onpia)
 
 ### Skilled with : 
