@@ -15,5 +15,5 @@
 
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
 <br>
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SWYeo118&layout=compact&theme=tokyonight)
 </div>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SWYeo118&layout=compact&theme=tokyonight)
